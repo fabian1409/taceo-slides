@@ -31,7 +31,7 @@
   )
 })
 
-#let tugraz-theme(
+#let taceo-theme(
   aspect-ratio: "16-9",
   footer: [],
   progress-bar: true,
